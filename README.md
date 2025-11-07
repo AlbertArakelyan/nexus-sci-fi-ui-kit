@@ -53,7 +53,7 @@ function App() {
 
 ## 📚 Components
 
-You can see complete library small demo in [COMPONENTS.md](./COMPONENTS.md)
+You can see full library small demo and a _complete example_ in [COMPONENTS.md](./COMPONENTS.md)
 
 ---
 
