@@ -1,4 +1,4 @@
-# ⚡ Nexus Sci-Fi UI Kit
+# ⚡ Nexus Sci-Fi UI Kit 
 
 A futuristic sci-fi React component library with built-in sound effects and cyberpunk aesthetics. Perfect for creating immersive terminal-style interfaces and sci-fi applications.
 
