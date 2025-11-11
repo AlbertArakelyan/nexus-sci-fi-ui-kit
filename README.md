@@ -2,6 +2,9 @@
 
 A futuristic sci-fi React component library with built-in sound effects and cyberpunk aesthetics. Perfect for creating immersive terminal-style interfaces and sci-fi applications.
 
+> [!NOTE]
+> The package is currently under active development and not published to `npm` yet.
+
 ## ✨ Features
 
 - 🎨 **Cyberpunk Design** - Neon green aesthetic with glowing effects and terminal-style typography
