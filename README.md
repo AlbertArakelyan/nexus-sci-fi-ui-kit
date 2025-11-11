@@ -91,8 +91,6 @@ sounds.click();   // Play click sound
 <Checkbox soundEnabled={false} label="Silent checkbox" />
 ```
 
----
-
 ## 🎨 Styling & Theming
 
 Nexus UI Kit uses CSS variables for easy customization:
@@ -121,8 +119,6 @@ All components accept a `className` prop for custom styling:
 </Card>
 ```
 
----
-
 ## 🌐 Browser Support
 
 - Chrome/Edge (latest)
@@ -130,19 +126,9 @@ All components accept a `className` prop for custom styling:
 - Safari (latest)
 - Web Audio API required for sound effects
 
----
-
-## 📄 License
-
-MIT License - Feel free to use in personal and commercial projects.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
----
 
 ## 🐛 Issues
 
@@ -152,8 +138,6 @@ Found a bug? Please open an issue on GitHub with:
 - Actual behavior
 - Steps to reproduce
 
----
-
 ## 💡 Tips
 
 1. **Performance**: Disable sounds in production if needed with `soundEnabled={false}`
@@ -161,8 +145,6 @@ Found a bug? Please open an issue on GitHub with:
 3. **Icons**: Import only the icons you need from lucide-react to optimize bundle size
 4. **Responsive**: Components are mobile-friendly but test on actual devices
 5. **Theming**: Customize CSS variables to match your brand colors
-
----
 
 ## 🎯 Roadmap
 
@@ -172,6 +154,10 @@ Found a bug? Please open an issue on GitHub with:
 - [ ] TypeScript definitions
 - [ ] Storybook documentation
 - [ ] Additional sound packs
+
+## 📄 License
+
+MIT License - Feel free to use in personal and commercial projects.
 
 ---
 
